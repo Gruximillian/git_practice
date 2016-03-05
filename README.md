@@ -94,7 +94,7 @@ Since the remote repository is set, we can push these changes to the remote, but
 Normally, we can do that with:
 
 ```shell
-git branch -u origin/apprentice apprentice
+git push -u origin/apprentice apprentice
 ```
 
 but, we are not here to do things in a "normal" way.
